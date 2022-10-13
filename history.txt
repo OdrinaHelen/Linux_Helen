@@ -1,0 +1,70 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 ls -a
+   4 ls --help
+   5 ls
+   6 cd
+   7 cd ..
+   8 ls
+   9 cd /tmp/
+  10 ls
+  11 cd /
+  12 cd /run/
+  13 ls
+  14 cd /
+  15 cd /home/
+  16 mkdir Lena
+  17 cd /Lena
+  18 mkdir user1
+  19 ls
+  20 cd user1
+  21 mkdir task1
+  22 ls
+  23 cd task1
+  24 pwd
+  25 touch file1.txt
+  26 ls -l
+  27 cd ..
+  28 ls
+  29 tree
+  30 tree /bin
+  31 tree #
+  32 tree /
+  33 ls
+  34 cd
+  35 clear
+  36 history
+  37 mkdir /home/user2
+  38 mkdir /home/user2/task1
+  39 toach /home/user2/task1/file1.txt
+  40 touch /home/user2/task1/file1.txt
+  41 tree /home
+  42 mkdir -p /home/user3/task3/file3.txt
+  43 mkdir --help
+  44 tree /home
+  45 mkdir /tmp/1 /tmp/2 /tmp/3 /home/123
+  46 tree /home
+  47 touch /tmp/1/1.txt /tmp/2/2.txt
+  48 tree /tmp/
+  49 mkdir /opt/1 touch /opt/1/file.txt
+  50 tree /opt
+  51 cp /tmp/1/1.txt /root/new1.txt
+  52 tree /tmp/
+  53 ls
+  54 mv /tpm/2/2.txt /root/
+  55 mv /tmp/2/2.txt /root/
+  56 tree /tmp/
+  57 /home/
+  58 /home
+  59 tree
+  60 tree /home
+  61 mv /home/user2/task1/file1 /home/user2/task2/file2
+  62 mv /home/user2/task1/file1.txt /home/user2/task2/file2.txt
+  63 mv /home/user2/task1/file1.txt /home/user2/task1/file2.txt
+  64 mv /home/user2/task1 /home/user2/task2
+  65 tree /home
+  66 rm -rf /home/123
+  67 tree /home
+  68 clear
+  69 history > history.txt
